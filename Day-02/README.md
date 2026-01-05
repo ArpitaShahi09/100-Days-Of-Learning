@@ -9,5 +9,3 @@ Today I studied how **Linked Lists** manage memory differently than Arrays. Inst
 - **Time Complexity:** $O(1)$ for insertion at the beginning.
 
 
-
-[Image of a Singly Linked List diagram]
